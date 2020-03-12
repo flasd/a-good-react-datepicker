@@ -1,0 +1,37 @@
+{
+  "name": "a-good-react-datepicker",
+  "version": "0.0.1",
+  "description": "A headless react datepicker for when you don't wont to suffer.",
+  "main": "./dist/index.umd.js",
+  "repository": "https://github.com/flasd/a-good-react-datepicker",
+  "author": "Marcel Coelho",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@babel/parser": "^7.8.8",
+    "@babel/types": "^7.8.7",
+    "@types/jest": "^25.1.4",
+    "@types/react": "^16.9.23",
+    "coveralls": "^3.0.9",
+    "cross-env": "^7.0.2",
+    "csstype": "^2.6.9",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-import-resolver-typescript": "^2.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "jest": "^25.1.0",
+    "jest-diff": "^25.1.0",
+    "microbundle": "^0.11.0",
+    "pretty-format": "^25.1.0",
+    "react": "^16.13.0",
+    "rimraf": "^3.0.2",
+    "ts-jest": "^25.2.1",
+    "typescript": "^3.8.3"
+  },
+  "peerDependencies": {
+    "react": "^16.13.0"
+  },
+  "dependencies": {
+    "@types/react-dom": "^16.9.5"
+  }
+}
